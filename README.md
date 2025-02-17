@@ -51,3 +51,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/torjulio/torjulio/output/snake.svg" alt="Snake animation" />
+
+###
